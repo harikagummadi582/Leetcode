@@ -1,4 +1,4 @@
-# {ID}. {Title}
+# 1. Two Sum
 
 **LeetCode:** https://leetcode.com/problems/two-sum/submissions/1884537512/  
 **Date:** {2026-01-13}  

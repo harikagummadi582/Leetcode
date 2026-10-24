@@ -1,7 +1,7 @@
 # 217. Contains Duplicate
 
 **LeetCode:** https://leetcode.com/problems/contains-duplicate/description/
-**Date:** {2026-01-12}  
+**Date:** {2026-01-12}, {2026-10-23}
 **Status:** ✅ Solved  
 **Difficulty:** Easy  
 **Tags/Pattern:** Hashing, Set  
